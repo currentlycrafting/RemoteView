@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.Python
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+.coverage
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# macOS specific (if applicable)
+.DS_Store
+
+# Logs and other temporary files
+*.log
+*.tmp
